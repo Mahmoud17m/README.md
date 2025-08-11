@@ -8,31 +8,17 @@ Mahmoud17m
 
 <p align="center">
   <a href="https://x.com/Mahmoud_17m1" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/351385441913536512" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/819968739444391946" alt="Discord Presence" />
   </a>
 </p>
 
 ### ​ Skills:
-- 🖌 **3D Design & Modeling**
+- :paintbrush: **3D Design & Modeling**
 
 ---
 
-### Languages & Tools:
+### 3D & Graphic Tools:
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316882.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<!-- 3D & Graphic Tools -->
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![ZBrush](https://img.shields.io/badge/ZBrush-%23F58220.svg?style=for-the-badge&logo=zbrush&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
