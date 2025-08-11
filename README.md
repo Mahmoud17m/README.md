@@ -20,7 +20,7 @@ Mahmoud17m
 ### 3D & Graphic Tools:
 
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-%23F58220.svg?style=for-the-badge&logo=zbrush&logoColor=white)
+![zmodeler3](https://img.shields.io/badge/ZBrush-%23F58220.svg?style=for-the-badge&logo=zbrush&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Substance 3D Painter](https://img.shields.io/badge/Substance%203D%20Painter-%230739C6.svg?style=for-the-badge&logo=adobe-substance-3d&logoColor=white)
